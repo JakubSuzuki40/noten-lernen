@@ -16,3 +16,4 @@ Notes and usage details for noten-lernen.
 - add a note about the defaults
 - link the usage section
 - clarify the setup steps
+- fix a small wording issue
