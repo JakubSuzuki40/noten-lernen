@@ -22,3 +22,4 @@ Notes and usage details for noten-lernen.
 - clarify the setup steps
 - link the usage section
 - clarify the setup steps
+- link the usage section
